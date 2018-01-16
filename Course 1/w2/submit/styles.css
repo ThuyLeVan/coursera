@@ -1,0 +1,11 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1 {
+    /** this change size of text */
+    font-size: 30px;
+    /** this change color of text */
+    color: red;
+    /** this make all text is uppercase */
+    text-transform: uppercase;
+}

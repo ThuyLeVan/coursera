@@ -1,0 +1,28 @@
+Weeek 1: html
+    - introduce about web basics: client side (html + javscript + css)
+    - Setup dev enviroment: Notepad ++, Sublime Text
+    - writing some HTML code, introduce tag; html, head, body, h1, a, img, ol, ul, li ...
+    - introduce responsive design
+    - Final test and upload exercise: writing HTML code with least 2 tag 
+
+Weeek 2: css
+    - introduce CSS, font
+    - custom css of link
+    - introduce layout control: margin, padding
+    - install bootstrap
+    - Final test and upload exercise: change css of tag h1 by 3 ways
+
+week 3: javascript
+    - event: mouse onclick
+    - how to use console
+    - introduce jQuery, example
+    - anonymous functions
+    - do an example about gallery image
+    - Final test and upload exercise: change image src of some image
+
+week 4: deefer javascript
+    - variables
+    - if statements
+    - boolean variables
+    - eReader example: read full text when click thumb in the left side
+    - Final test and upload exercise: make a night mode for eReader by javascript
